@@ -10,6 +10,6 @@ Merupakan website pribadi sederhana yang dibuat menggunakan **HTML**, **CSS**, d
 - **Efek hover** untuk tombol sosial media dan menu navigasi.
 
 ## Teknologi yang Digunakan
-- **HTML5** untuk struktur halaman.
-- **CSS3** untuk tampilan dan desain responsif.
+- **HTML** untuk struktur halaman.
+- **CSS** untuk tampilan dan desain responsif.
 - **JavaScript** untuk efek interaktif.
