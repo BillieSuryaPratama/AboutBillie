@@ -1,7 +1,7 @@
 # AboutBillie
 
 ## Deskripsi
-Merupakan website pribadi sederhana yang dibuat menggunakan **HTML**, **CSS**, dan **JavaScript**. Website ini berisi informasi tentang Diri saya, termasuk latar belakang pendidikan, keterampilan, portofolio, dan hobi.
+Merupakan website pribadi sederhana yang dibuat menggunakan **HTML**, **CSS**, dan **JavaScript**. Website ini berisi informasi tentang diri saya.
 
 ## Fitur
 - **Navigasi responsif** dengan menu tetap (sticky navbar).
